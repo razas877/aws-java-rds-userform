@@ -51,8 +51,8 @@ java  -cp .:mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar UserDatabaseApp
 Check the users table — the record should be stored.
 
 **Example Flow**
--User runs program on EC2.
--Enters Name, Age, Mobile.
--Java program inserts data into RDS.
--Data visible in MySQL Workbench.
+1)User runs program on EC2.
+2)Enters Name, Age, Mobile.
+3)Java program inserts data into RDS.
+4)Data visible in MySQL Workbench.
 
