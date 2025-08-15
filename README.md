@@ -17,7 +17,7 @@ A simple Java application on AWS EC2 that takes user input and stores it in an A
 3. Connect RDS to MySQL Workbench
 - Use RDS endpoint, username, and password.
 - Create database and table:
-```sql
+
 CREATE DATABASE userdb;
 USE userdb;
 CREATE TABLE users (
