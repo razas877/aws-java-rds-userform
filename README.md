@@ -56,3 +56,4 @@ Check the users table — the record should be stored.
 3)Java program inserts data into RDS.
 4)Data visible in MySQL Workbench.
 
+Note: Please find the attached screenshots for reference.
